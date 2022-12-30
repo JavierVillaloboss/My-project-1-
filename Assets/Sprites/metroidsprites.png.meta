@@ -1,0 +1,4381 @@
+fileFormatVersion: 2
+guid: a2e2393ad5e5d5641b08c2ffdf5374d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metroidsprites_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 411
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56454ab41a6eba47ab59ed99352c9b0
+      internalID: 694399153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 411
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dceb226e8f191943bfffef435bb071b
+      internalID: -37182169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 411
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fee4c0ee8d5fdb4b9a1aeefceb4f070
+      internalID: -1720225085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 411
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588af339ef398104c80927b6af7289c8
+      internalID: 241281737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 411
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47df29a3f5033d64d85aeca9044f6da8
+      internalID: -543855478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 411
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b774bcf9ac212d748b957c05176a7bf2
+      internalID: -1347725628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 411
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c649aef00d75c94db1dfb74faa1349b
+      internalID: -1799309087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 411
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4b51769f357a8448121592a378bde8
+      internalID: 863679691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 411
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f10f1831132f6746b34135b58d90650
+      internalID: -760701804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 411
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12004ad2050b4164a8fb1935f16b1d63
+      internalID: -1618420312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 253
+        width: 27
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52132714, y: 0.5093348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd148397237c8240b7bab0d02380775
+      internalID: -1170915586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_11
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 407
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd17b66aa69250f4b830c692c51455a2
+      internalID: 1526007150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 407
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172cc0176475c2b4daf71e1f450c8d23
+      internalID: -909829442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_13
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 407
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d86fbb0780e5f14db9e4a4bc0ea1824
+      internalID: 1763574209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 408
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3a2b9c4aea5314dbb96659d6a07bbf
+      internalID: 1069555515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 408
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b30ba4ffb14a1347820b2de2f28d17c
+      internalID: -1431665026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 412
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf52c20b611ec2a4e94d1488c43f7c58
+      internalID: 2041204304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 406
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2220423956b69ce4fa60197f22f24b96
+      internalID: -898276498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_18
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 407
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c102a8ed1a8d14388a557eea80de71
+      internalID: 677534591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 407
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea5df9f7d4351e41a8d2c747662e50f
+      internalID: 402627077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 411
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d04d25078593f46a96b51692854366
+      internalID: 1626533672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 408
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a839d0e41c72144bbcef6504048ba1
+      internalID: -1151808609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_22
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 408
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8f9076a5823374e89bd1ab2a7f78f9
+      internalID: 1379158772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 365
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecc210b106877e42be37b0637d60024
+      internalID: 1087565852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_24
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 365
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c29d3aed5a81e04c80d2eb96171c1d2
+      internalID: -2006676119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 389
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92924c87d6264c498e065af76cbbf73
+      internalID: 336386570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 389
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce4f872d6bbd76459afb00504923bc6
+      internalID: -1100595051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 386
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c539f5392951de34c9addd16cb86bc76
+      internalID: 1143663310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_28
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 386
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0cb59c5c6ec7e4a8b15c09ae347a70
+      internalID: 1535029122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_29
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 386
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8412f6f647433634e9b905f2aa1cf92f
+      internalID: 738485152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_30
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 386
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea67f12a75366d54b96e6f58a4b8d9aa
+      internalID: 286977492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_31
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 381
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dfee6117ca27c48b1f856dc8e5bacf
+      internalID: -370318806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 365
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bdabd3365e88847b0b6a7d06911fb9
+      internalID: 1882755783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 365
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda56e44a7326dd4d990adf6ce7adfd5
+      internalID: 936475019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 365
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9d4948d63768044ada86b8cfb6ef90
+      internalID: -443807930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 365
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eef0d02c5989c47bd89d9cd9ab8ca2
+      internalID: -1166231676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_36
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 365
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57bb55c2208cbf4abece6942aebdd72
+      internalID: 1592168692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 365
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82318bc1d43fd8044bcbf4ea43a2ab45
+      internalID: 2013344645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 365
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c263e450a3efa74c8ec9cf3153cb279
+      internalID: -2079180861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_39
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 365
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ac3ea975aaf274587f4846fe12504d
+      internalID: 2030414701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_40
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 346
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3897eeddc6ed5c849aee14384befe504
+      internalID: -1161214438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_41
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 362
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e173e7e62e39440ad00e6d7fa2ef46
+      internalID: 757697651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_42
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 346
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6445618a074ef9e4fa8ca4bd663d3c42
+      internalID: -1382555309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_43
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 346
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb91e3d4b72c287488b635b8d644aec2
+      internalID: -796798259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 346
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7410aea5f05bc3e4a8c2274f9c619447
+      internalID: -1003071489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_45
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 346
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd52c95eb7331b143ac701e1141d33b9
+      internalID: 1770046474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_46
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 346
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39560cb840d1be41885074f5ea2b7f9
+      internalID: -1259208684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_47
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 346
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb254cb8988b6439e1983e14114d5c
+      internalID: 271457863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_48
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 346
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbbe9ea025cfef408420e3aa2f67480
+      internalID: -1517973659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 325
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bcd26e170ffc04b9d077331bec0a76
+      internalID: 1193099266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 325
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aac8e02bde9e44583ec975bfa54a6c
+      internalID: 232751573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 325
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9bc9fb7b57a15d4b8deb9a558043798
+      internalID: -269224638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 325
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f872ff3bf8a475944ba37e403e451f51
+      internalID: -1149495637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_53
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 325
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ab60b0af2260e4e9de054d4288d47f
+      internalID: 111277016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 325
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c552ea6b2a071746923baeca02491a7
+      internalID: -597353937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_55
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 346
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bbaf322a2434c47993a11dcbabe483
+      internalID: 33629617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_56
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 346
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8111a43b51fd241863862265cb7b53
+      internalID: -450748144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_57
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 341
+        width: 22
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cc45c518f84684c997f237ec81d4c5
+      internalID: 1033268899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_58
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 325
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a2087b871340f49a856998874bc4fd
+      internalID: 1219317370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_59
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 325
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda1bdc0d7d292442a9aab5213823f7c
+      internalID: -594132600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 325
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fc9a3a2d5f9e24f8894c178ae8b496
+      internalID: -360806447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 325
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66517e49c2ecba141aa0d7d79372bd4e
+      internalID: 923661510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 307
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5e6d69e5c0ff6438710f3d03bc5445
+      internalID: 895372643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 307
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f77f1c7506885441aed983fff5b9c3d
+      internalID: -1588448654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_64
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 307
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0396cab64fab14342a104013959ebc19
+      internalID: -1167116473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_65
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 307
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b42798162597640a3508d677a5b6c8
+      internalID: 412275668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_66
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 307
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e082fe0fb2c384594ae4312405ca33
+      internalID: 1949275618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_67
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 307
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1abdb8ad9dd154db9b57692d1a1a91
+      internalID: -1822675675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_68
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 307
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38e8b30285d7274194f8d93b09d901a
+      internalID: -1520426614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_69
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 307
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807f39e76369b6844991d99f1b0663b5
+      internalID: 55294619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_70
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 307
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef815fb492b593a4fb69772947576d38
+      internalID: 1679430136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 289
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25c9c07a95bf2b4193f910cf7474fa3
+      internalID: 1248694540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_72
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 289
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ee3adb33f70a1448e0e50fe355548f
+      internalID: 670143049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_73
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 289
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68863b7bcb875449a9ede1688aafa53
+      internalID: 1123391313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 289
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ba57a0ff636c643913e70f77e83a72
+      internalID: 1675066474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_75
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 289
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ec2a90611f60641b79f101c867f00c
+      internalID: 1062046124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_76
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 289
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca730d16167a648b23cc2e7ca0b201
+      internalID: 21201136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_77
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 289
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab7edfb0e9258045b8d3e719bad7c32
+      internalID: -1353246008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_78
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 289
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee55181de8a0b446ba595b69662f754
+      internalID: 986306334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_79
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 289
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7755b2a1e6360448bc3e462274a13b
+      internalID: 84800222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_80
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 268
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fdeda64a0e3b64a8d7a3b1428782ea
+      internalID: 575454460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_81
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 268
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04200e3a450e88459c8b4339048d3e8
+      internalID: -599554931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_82
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 268
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ed0eb7d24109e4e8e976ea9c06c8ef
+      internalID: 241353494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_83
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 268
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e6e379e54b8248b32228d23ff5f84
+      internalID: -1600575720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_84
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 268
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec85e5825da97649b418c5d94e9b38f
+      internalID: 1549379744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 268
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843e9340955bb0643ac546eb1b356744
+      internalID: -312083145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_86
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 268
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f368cce7ddf654ba87a7b43d4e372e
+      internalID: 1379504099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_87
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 253
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bca5ed2aa00ef4ebd7e0959c644a5c
+      internalID: -1493932319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_88
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 253
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc33686f595760346a4f42eeec286f16
+      internalID: -905194218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 253
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c5d863bcd283648bc3ae9248c2f08d
+      internalID: 1654050776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_90
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 279
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee524b9ff6781414cb7f888d7b1b8529
+      internalID: -544648078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 253
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2186d8370ee534c8fb2b668d0107f8
+      internalID: 2040720227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_92
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 253
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561027f5a33d64941bbaccaa8cc3c498
+      internalID: 10312414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_93
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 253
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa90e40ea7ab4cf41bd177ab2211eb60
+      internalID: 1342418711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 253
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f9950ba43970e4d95ebb29e5380c80
+      internalID: 1315292006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_95
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 253
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa07742184c39174caa2b51d3616f466
+      internalID: -854471019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 229
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba06e8700bdaa646a63ab28b0c0ee42
+      internalID: 792379427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_97
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 229
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d547fbe3617344e8a8f97132b2cf71
+      internalID: -1824320989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_98
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 229
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43d1f46ecf33cd47a890016676dd9c3
+      internalID: 1259289733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_99
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 229
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5451b42dbe4e120409a43c8e694791ec
+      internalID: 136449116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_100
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 229
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e64f3408ae44ed4a9da4679df89789a
+      internalID: 1647958516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_101
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 229
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b449d629765df84293c171cb6801e4f
+      internalID: 1288419597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_102
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 229
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dbe8b8eff30784b8acdca301f4a29b
+      internalID: -984064730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_103
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 219
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b74f6e3d585194d9e5031508567475
+      internalID: -2035531513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_104
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 219
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed61b9064e93ad46999f245a8a8c27f
+      internalID: -2028849072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_105
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 219
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db05957ff87952c47894407c973a7a89
+      internalID: 1692055228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_106
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 219
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7cd14cee1b98b4a8c8ebd37a5c8831
+      internalID: 1355371576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_107
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 218
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68db62b51b6b98e42886a3c8c703164e
+      internalID: -884729535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_108
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 220
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819f4bb0b3b245242a9ff7de0ec551bb
+      internalID: 1399894817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_109
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 219
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1843544e6675a2b42b4cae2781c1a810
+      internalID: -1276384223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_110
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 229
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcad68a12a10ba24cbab667d32f6a12e
+      internalID: 1344759796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_111
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 186
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3438fae62eb67540a03da32e2f3375c
+      internalID: 245263630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_112
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 186
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89378055c7fef3c4682e863509612904
+      internalID: -755592102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_113
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 186
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299815baced1dae4da7b4a57aab47d0f
+      internalID: -1839018963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_114
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468d1722307aaa4ea14a82146e3bafe
+      internalID: -808975121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_115
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f9e587529086f4a853f2af971b293a
+      internalID: 503997179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 187
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d661d11a272f7248b739fdaa56ba077
+      internalID: -1620654964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_117
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 186
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df649b4a86322944ba4a41229e6fa2b
+      internalID: 1936460450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_118
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 190
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1792e7ef9535b9645805eacf9c7edfce
+      internalID: -1704716012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_119
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 190
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3319ab7d8b64584a857facd7ecbfb47
+      internalID: 1941814204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_120
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 190
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91b631e85c41044f901745c6d29b226
+      internalID: -1158808535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_121
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 190
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bceb1b15dde374d8a24d5f6f5b11bb
+      internalID: 1299509859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_122
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 190
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b855a20b5b94e2e438eb6fec013422a6
+      internalID: 1715078189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 190
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f443a82b815b06b4f9928704181597cb
+      internalID: -2128562623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_124
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 190
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0492c20dc9bfd4a8d50760fed9c59b
+      internalID: -2106723526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_125
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 188
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a25adba824180439fed562034f0ebe
+      internalID: -190151396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_126
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 182
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2688be8b787093e4e99345f5812ad9dd
+      internalID: 2042194947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 154
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea99af39d9f0711489934d1de4885be2
+      internalID: -1625532123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_128
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 154
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb0e479ab678174aae2c563e11f513f
+      internalID: -678053405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_129
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 154
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ded050327d4c64ab1e34b2a5d4c87d
+      internalID: 1995020627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_130
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 154
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b257deda76c21b42889ebdbbc840141
+      internalID: 228496565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_131
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 154
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadbbfd778f2aac409b42bb8abd05e08
+      internalID: -1137402738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_132
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 154
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7437d67e84237364ea4793958c8c4051
+      internalID: 1891717389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_133
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 154
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42925ed6ab30df4ea4642a451748773
+      internalID: -1391652772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_134
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 154
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39992ff0694eec04a835ddad9c98e25a
+      internalID: -23553294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_135
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 154
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ef47710fabc94428a0f221f40907b1
+      internalID: -1681787588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_136
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 154
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c244e3bf1267ccb4eb22d45c8b4bdf0a
+      internalID: -834119005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_137
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 147
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f3868355f575748986f61c528e2fe4
+      internalID: 234010199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_138
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 147
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18208887026c83540b1c0143e444d1eb
+      internalID: 1918892011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_139
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 147
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f4cf6dd688eef498fd916838ef5ae5
+      internalID: -1163769825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_140
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 147
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808454c80d5e054bade699a9f009ab1
+      internalID: -1799800140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_141
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 147
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b01d800d775c347984a904a13a0e0d
+      internalID: -1570283573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_142
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 147
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6423d1c69ab73924fb0ee59115826a80
+      internalID: 1960827045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_143
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 147
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cc122fedd1e2842a86ef48fc0761dc
+      internalID: -2067856751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_144
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 147
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c744b3dc5522ee543aa5b1228ed1c63b
+      internalID: -1498334778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_145
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 114
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7fa3e93a1ce4347af7861ecffdc039
+      internalID: 898302745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_146
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 114
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e15478f182d0c24ba029225f91b8d52
+      internalID: 549738940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_147
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 130
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ef60ce7e682a4fb72076a33029a9f
+      internalID: -1713719147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_148
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 130
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579a12f334d64614bbd52653f9c5c0c4
+      internalID: -718241694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_149
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 114
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77593139fb66da448aae870c18a2d038
+      internalID: 1352482077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_150
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 114
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37c4c64ce0337448c06e6081703322
+      internalID: -1217104179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_151
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 130
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9cf026c8244f45b2b148704653c67
+      internalID: -603612702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_152
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 130
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a9ec3d368c98a24bb8491cdc3f150c8
+      internalID: 1299016760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_153
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 110
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5155ffc3da486c9418bbb883cbb92a52
+      internalID: 103731221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_154
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 110
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b238115ab3a1ff4486953f6f5f281ca
+      internalID: -1577697994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_155
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 110
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ec108512c5e5c4d95a11db9ca3f2bc
+      internalID: -653632620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_156
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 110
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31281e89976daca4682ab89fda4223da
+      internalID: 674549469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_157
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 110
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb343ea5af5da8479bb8de3072aec10
+      internalID: 1089887906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_158
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 110
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2514d9452154e8f45962f38ebeb02a58
+      internalID: -93025406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_159
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 110
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042e83eb7c5e33c4183d47dda9839990
+      internalID: -1566327672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_160
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 110
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00934ac03e8d55942acf4398f585d27b
+      internalID: 1810831550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_161
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 114
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99474e3c90229e4fafb89dfa514f057
+      internalID: 592414083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_162
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 118
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819835b8ae25a849a663bfdd024b81b
+      internalID: -1241600604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_163
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 118
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd0b939e84dfc4438732d5d0a180f45
+      internalID: 2036272443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_164
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 114
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cd0e31dd8453e46a244ece3f50aa21
+      internalID: 739469517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_165
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 77
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b0e29d390e3bb4aad2f9401e6dd842
+      internalID: -1694856056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_166
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 77
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81acd7d3ae67a204a821b5c3db906831
+      internalID: -132175843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_167
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 77
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e014c802a0d85bd4184c96d83c1b89a3
+      internalID: -519299094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_168
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 77
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1a904a8cb66fe4eb7986e52109d8dc
+      internalID: -654806558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_169
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 77
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e213fc0d79e9a804aa9e8b66fdf59271
+      internalID: 1794078180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_170
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 77
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623a652710de4e444890abe3e04d3a26
+      internalID: -25943179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_171
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 77
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aad3413fff0fe43b477180442da74d
+      internalID: -2115394929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_172
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 77
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93fc1b21225f4e41a5ad36c944ae869
+      internalID: 1977988577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_173
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 77
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9773f30855dd041b07c5259f2a10bb
+      internalID: 646653488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_174
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 77
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0c2657b9fd2ca4ba753d92e8f7cd5f
+      internalID: 390189538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_175
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace7404d69c27eb4b83d11806a8c1590
+      internalID: 498785829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_176
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 44
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b308d307bc455264bb96443a0964d3c3
+      internalID: -1352152317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_177
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 44
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8279019fedd8b6940a3635cbf11b456f
+      internalID: 926219897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_178
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637c5032335546441aed1eb42de80e10
+      internalID: 745564602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_179
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870f67a234b1de648aeed788402aac78
+      internalID: -1221997105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_180
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 45
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772a8179e07edd041bc842ea40a94247
+      internalID: -1969540812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_181
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 44
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5188777506291fd47bdb6facbba6a1b9
+      internalID: -8475847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_182
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4b6bdf6816d694eb202de1282b5e62
+      internalID: 182248347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_183
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 4
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca25ee680fabb8c45894e03005e45fb8
+      internalID: 604719701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_184
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 4
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3250d65fb3c314c969695062e07873
+      internalID: 2006685419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_185
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 20
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f6c2e56e9a38428450f93287812d3
+      internalID: 39212579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_186
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 20
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a958277400139954bbe029013e7a9d1a
+      internalID: 1720925374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_187
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4fe370cb3d6cd4287c2d8956f2a169
+      internalID: 1968450561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_188
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb270f1173d6984484cb9fb28d06d43
+      internalID: 1845997223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_189
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 4
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0031a4b47b59bd54f871ef0031eaf611
+      internalID: -1178817177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a27543ca773b8469e0ec99c350646a
+      internalID: -1026708356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_191
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 4
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c641a9262e108284280b6b7b113a318b
+      internalID: -777001819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metroidsprites_192
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f3f9908183dcf4f8e47ac857de1944
+      internalID: -470398132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      metroidsprites_66: 1949275618
+      metroidsprites_23: 1087565852
+      metroidsprites_91: 2040720227
+      metroidsprites_27: 1143663310
+      metroidsprites_38: -2079180861
+      metroidsprites_136: -834119005
+      metroidsprites_12: -909829442
+      metroidsprites_39: 2030414701
+      metroidsprites_101: 1288419597
+      metroidsprites_186: 1720925374
+      metroidsprites_48: -1517973659
+      metroidsprites_127: -1625532123
+      metroidsprites_178: 745564602
+      metroidsprites_151: -603612702
+      metroidsprites_148: -718241694
+      metroidsprites_22: 1379158772
+      metroidsprites_174: 390189538
+      metroidsprites_131: -1137402738
+      metroidsprites_85: -312083145
+      metroidsprites_134: -23553294
+      metroidsprites_171: -2115394929
+      metroidsprites_28: 1535029122
+      metroidsprites_56: -450748144
+      metroidsprites_140: -1799800140
+      metroidsprites_14: 1069555515
+      metroidsprites_9: -1618420312
+      metroidsprites_43: -796798259
+      metroidsprites_25: 336386570
+      metroidsprites_8: -760701804
+      metroidsprites_30: 286977492
+      metroidsprites_107: -884729535
+      metroidsprites_96: 792379427
+      metroidsprites_152: 1299016760
+      metroidsprites_62: 895372643
+      metroidsprites_2: -1720225085
+      metroidsprites_164: 739469517
+      metroidsprites_41: 757697651
+      metroidsprites_65: 412275668
+      metroidsprites_53: 111277016
+      metroidsprites_63: -1588448654
+      metroidsprites_192: -470398132
+      metroidsprites_88: -905194218
+      metroidsprites_170: -25943179
+      metroidsprites_15: -1431665026
+      metroidsprites_73: 1123391313
+      metroidsprites_157: 1089887906
+      metroidsprites_72: 670143049
+      metroidsprites_13: 1763574209
+      metroidsprites_163: 2036272443
+      metroidsprites_154: -1577697994
+      metroidsprites_168: -654806558
+      metroidsprites_162: -1241600604
+      metroidsprites_24: -2006676119
+      metroidsprites_138: 1918892011
+      metroidsprites_182: 182248347
+      metroidsprites_189: -1178817177
+      metroidsprites_80: 575454460
+      metroidsprites_17: -898276498
+      metroidsprites_103: -2035531513
+      metroidsprites_4: -543855478
+      metroidsprites_84: 1549379744
+      metroidsprites_37: 2013344645
+      metroidsprites_90: -544648078
+      metroidsprites_75: 1062046124
+      metroidsprites_126: 2042194947
+      metroidsprites_141: -1570283573
+      metroidsprites_159: -1566327672
+      metroidsprites_173: 646653488
+      metroidsprites_33: 936475019
+      metroidsprites_87: -1493932319
+      metroidsprites_167: -519299094
+      metroidsprites_0: 694399153
+      metroidsprites_100: 1647958516
+      metroidsprites_181: -8475847
+      metroidsprites_121: 1299509859
+      metroidsprites_92: 10312414
+      metroidsprites_166: -132175843
+      metroidsprites_44: -1003071489
+      metroidsprites_119: 1941814204
+      metroidsprites_161: 592414083
+      metroidsprites_165: -1694856056
+      metroidsprites_18: 677534591
+      metroidsprites_114: -808975121
+      metroidsprites_176: -1352152317
+      metroidsprites_124: -2106723526
+      metroidsprites_78: 986306334
+      metroidsprites_45: 1770046474
+      metroidsprites_191: -777001819
+      metroidsprites_3: 241281737
+      metroidsprites_105: 1692055228
+      metroidsprites_109: -1276384223
+      metroidsprites_74: 1675066474
+      metroidsprites_51: -269224638
+      metroidsprites_29: 738485152
+      metroidsprites_50: 232751573
+      metroidsprites_64: -1167116473
+      metroidsprites_77: -1353246008
+      metroidsprites_108: 1399894817
+      metroidsprites_187: 1968450561
+      metroidsprites_6: -1799309087
+      metroidsprites_19: 402627077
+      metroidsprites_40: -1161214438
+      metroidsprites_31: -370318806
+      metroidsprites_143: -2067856751
+      metroidsprites_111: 245263630
+      metroidsprites_86: 1379504099
+      metroidsprites_7: 863679691
+      metroidsprites_95: -854471019
+      metroidsprites_118: -1704716012
+      metroidsprites_60: -360806447
+      metroidsprites_155: -653632620
+      metroidsprites_46: -1259208684
+      metroidsprites_123: -2128562623
+      metroidsprites_102: -984064730
+      metroidsprites_32: 1882755783
+      metroidsprites_76: 21201136
+      metroidsprites_89: 1654050776
+      metroidsprites_185: 39212579
+      metroidsprites_42: -1382555309
+      metroidsprites_36: 1592168692
+      metroidsprites_68: -1520426614
+      metroidsprites_35: -1166231676
+      metroidsprites_145: 898302745
+      metroidsprites_81: -599554931
+      metroidsprites_16: 2041204304
+      metroidsprites_112: -755592102
+      metroidsprites_133: -1391652772
+      metroidsprites_147: -1713719147
+      metroidsprites_177: 926219897
+      metroidsprites_113: -1839018963
+      metroidsprites_69: 55294619
+      metroidsprites_26: -1100595051
+      metroidsprites_116: -1620654964
+      metroidsprites_70: 1679430136
+      metroidsprites_79: 84800222
+      metroidsprites_160: 1810831550
+      metroidsprites_99: 136449116
+      metroidsprites_67: -1822675675
+      metroidsprites_150: -1217104179
+      metroidsprites_82: 241353494
+      metroidsprites_52: -1149495637
+      metroidsprites_94: 1315292006
+      metroidsprites_106: 1355371576
+      metroidsprites_153: 103731221
+      metroidsprites_128: -678053405
+      metroidsprites_104: -2028849072
+      metroidsprites_21: -1151808609
+      metroidsprites_184: 2006685419
+      metroidsprites_158: -93025406
+      metroidsprites_58: 1219317370
+      metroidsprites_172: 1977988577
+      metroidsprites_190: -1026708356
+      metroidsprites_169: 1794078180
+      metroidsprites_125: -190151396
+      metroidsprites_47: 271457863
+      metroidsprites_10: -1170915586
+      metroidsprites_34: -443807930
+      metroidsprites_129: 1995020627
+      metroidsprites_122: 1715078189
+      metroidsprites_132: 1891717389
+      metroidsprites_20: 1626533672
+      metroidsprites_54: -597353937
+      metroidsprites_137: 234010199
+      metroidsprites_97: -1824320989
+      metroidsprites_117: 1936460450
+      metroidsprites_98: 1259289733
+      metroidsprites_180: -1969540812
+      metroidsprites_144: -1498334778
+      metroidsprites_120: -1158808535
+      metroidsprites_135: -1681787588
+      metroidsprites_188: 1845997223
+      metroidsprites_156: 674549469
+      metroidsprites_83: -1600575720
+      metroidsprites_49: 1193099266
+      metroidsprites_55: 33629617
+      metroidsprites_93: 1342418711
+      metroidsprites_61: 923661510
+      metroidsprites_130: 228496565
+      metroidsprites_57: 1033268899
+      metroidsprites_71: 1248694540
+      metroidsprites_179: -1221997105
+      metroidsprites_146: 549738940
+      metroidsprites_110: 1344759796
+      metroidsprites_175: 498785829
+      metroidsprites_142: 1960827045
+      metroidsprites_149: 1352482077
+      metroidsprites_139: -1163769825
+      metroidsprites_183: 604719701
+      metroidsprites_11: 1526007150
+      metroidsprites_1: -37182169
+      metroidsprites_5: -1347725628
+      metroidsprites_115: 503997179
+      metroidsprites_59: -594132600
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
